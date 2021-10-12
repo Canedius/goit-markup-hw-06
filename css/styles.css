@@ -479,7 +479,7 @@ p {
 
 .modal-wrap {
   padding: 41px 40px 0px 40px;
-  text-align: start;
+  text-align: center;
 }
 .modal-wrap-input {
   position: relative;
@@ -702,6 +702,7 @@ p {
 
 .modal-label {
   display: block;
+  text-align: start;
   min-width: 448px;
   font-size: 12px;
   line-height: 1.16;
